@@ -2,7 +2,7 @@
   <div class="login-wrap">
     <div class="login-box">
       <div class="login-logo">
-        <b>新国人书院后台管理系统</b>
+        <b>新国人书院后台管理系统aaa</b>
       </div>
       <div class="login-box-body">
         <p class="login-box-msg"></p>
